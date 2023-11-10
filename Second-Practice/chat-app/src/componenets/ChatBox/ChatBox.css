@@ -1,0 +1,13 @@
+.main-div {
+    height: 500px;
+    border: 1.5px solid gray;
+    border-radius: 4px;
+    background: #E0E9E9 url("./Background.png") ;
+    background-size: cover;
+}
+@media only screen and (max-width: 767px) {
+    .main-div {
+        height: 100vh;
+        border-radius: 0px;
+    }
+}
