@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e31baca1-6f82-4ea6-87dc-7843fd9c3ce1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/Actions/Action.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/Actions/Action.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/ChatBox/ChatBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/ChatBox/ChatBox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/Message/Message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/Message/Message.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/MessageList/MessageList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/componenets/MessageList/MessageList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Second-Practice/chat-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Second-Practice/chat-app/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Second-Practice/chat-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Second-Practice/chat-app/src/data/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Second-Practice/chat-app/src/data/messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Projects/Kaaryar-react",
+    "last_opened_file_path": "D:/Projects/contact-manager-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +72,8 @@
       <workItem from="1699260913162" duration="738000" />
       <workItem from="1699467546572" duration="3036000" />
       <workItem from="1699470618328" duration="2336000" />
-      <workItem from="1699616382859" duration="15435000" />
+      <workItem from="1699616382859" duration="15562000" />
+      <workItem from="1699705625949" duration="1353000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="Add the first exercise">
       <option name="closed" value="true" />
