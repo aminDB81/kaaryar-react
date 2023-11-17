@@ -1,9 +1,10 @@
 import './App.css';
+import OrderShell from "./componenets/OrderShell/OrderShell";
 
 function App() {
     return (
         <div>
-            <h1>hello</h1>
+            <OrderShell/>
         </div>
     );
 }

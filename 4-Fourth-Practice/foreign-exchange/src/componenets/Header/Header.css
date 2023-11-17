@@ -1,0 +1,19 @@
+.span-div span {
+    padding-inline: 35px;
+    position: absolute;
+}
+.first-span {
+    left: 5rem;
+}
+.secound-span {
+    left: 14rem;
+}
+.third-span{
+    margin-right: 13px;
+}
+.fourth-span{
+    right: 15rem;
+}
+.fifth-span {
+    right: 6rem;
+}

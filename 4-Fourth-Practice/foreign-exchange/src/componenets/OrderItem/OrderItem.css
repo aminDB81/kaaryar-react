@@ -1,0 +1,6 @@
+.order-item {
+    display: flex;
+    gap: 130px;
+    align-items: center;
+    width: 100%;
+}
