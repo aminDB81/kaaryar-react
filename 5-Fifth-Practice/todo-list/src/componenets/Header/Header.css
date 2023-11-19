@@ -1,0 +1,7 @@
+.header-card {
+    border-bottom: 2px solid #b2bec3;
+}
+.header-card p {
+    font-size: 24px;
+    margin: 32px 16px;
+}

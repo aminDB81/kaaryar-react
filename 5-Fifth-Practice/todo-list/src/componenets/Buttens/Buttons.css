@@ -1,0 +1,30 @@
+.button-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.first-button , .second-button {
+    height: 48px;
+    width: 50%;
+    font-size: 16px;
+    margin: 16px;
+}
+.first-button {
+    background-color: #FFFF;
+    border: none;
+    color: #ff3838;
+    transition: all 0.3s;
+}
+.second-button {
+    background-color: #ff3838;
+    border: none;
+    color: #FFFF;
+    transition: all 0.3s;
+}
+.second-button:hover {
+    box-shadow: 0px 4px 12px 0px #F84546;
+}
+.first-button:hover{
+    box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.1);
+}

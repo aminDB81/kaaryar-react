@@ -1,0 +1,20 @@
+.task-list-card {
+    width: 100%;
+    height: 65%;
+    background-color: #FFFF;
+    border-bottom: 2px solid #b2bec3;
+    overflow-y: scroll;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f2f2f2;
+    border-radius: 6px;
+}
