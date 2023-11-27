@@ -1,0 +1,8 @@
+.comments-body {
+    width: 80%;
+}
+@media (max-width: 767px) {
+    .comments-body {
+        width: 100%;
+    }
+}

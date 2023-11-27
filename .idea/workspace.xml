@@ -5,6 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e31baca1-6f82-4ea6-87dc-7843fd9c3ce1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.vfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/Yekan.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/assets/Yekan-Font-master/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/Comments/Comments.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/Comments/Comments.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/CommentsBody/CommentsBody.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/CommentsBody/CommentsBody.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/CommentsList/CommentsList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/CommentsList/CommentsList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Sixth-Practice/comments-list/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/comment/Comment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/comment/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/comments-box/CommentsBox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/comments-box/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/comments-lsit/CommentsList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/comments-lsit/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/components/header/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/data/comments.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +77,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="9daaba1f-95c7-4d08-9de4-d458d286bef4" />
+        <option name="accountId" value="65a045ab-9ce1-46e4-9337-07dc340adff5" />
         <option name="url" value="https://github.com/aminDB81/kaaryar-react.git" />
       </UrlAndAccount>
     </option>
@@ -32,31 +85,38 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/mahmood_khodadady_practice_6-master/package.json" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2XcO1mkcOFUJvgZNwgLoTNAaTu9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Projects/contact-manager-app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/kaaryar-react&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +134,9 @@
       <workItem from="1699470618328" duration="2336000" />
       <workItem from="1699616382859" duration="15562000" />
       <workItem from="1699705625949" duration="1353000" />
+      <workItem from="1700930713809" duration="6731000" />
+      <workItem from="1700949537255" duration="120000" />
+      <workItem from="1701019870381" duration="8736000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="Add the first exercise">
       <option name="closed" value="true" />
@@ -100,6 +163,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add the first exercise" />
     <option name="LAST_COMMIT_MESSAGE" value="Add the first exercise" />
   </component>

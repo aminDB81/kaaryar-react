@@ -1,0 +1,31 @@
+* {
+  font-family: Yekan;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fce9bf;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'Yekan';
+  src: url('../public/assets/Yekan-Font-master/Yekan.eot');
+  src: url('../public/assets/Yekan-Font-master/Yekan.eot?#iefix') format('embedded-opentype'),
+  url('../public/assets/Yekan-Font-master/Yekan.woff2') format('woff2'),
+  url('../public/assets/Yekan-Font-master/Yekan.woff') format('woff'),
+  url('../public/assets/Yekan-Font-master/Yekan.otf') format('opentype'),
+  url('../public/assets/Yekan-Font-master/Yekan.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  font-display: auto;
+}
