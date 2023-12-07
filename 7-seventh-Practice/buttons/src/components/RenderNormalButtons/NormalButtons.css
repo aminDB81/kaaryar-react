@@ -1,0 +1,28 @@
+.primary {
+    color: white;
+    background-color: #696CFF;
+}
+.secondary {
+    color: white;
+    background-color: #8592A3;
+}
+.success {
+    color: white;
+    background-color: #71DD37;
+}
+.danger {
+    color: white;
+    background-color: #FF3E1D;
+}
+.warning {
+    color: white;
+    background-color: #FFAB00;
+}
+.info {
+    color: white;
+    background-color: #03C3EC;
+}
+.dark {
+    color: white;
+    background-color: #233446;
+}

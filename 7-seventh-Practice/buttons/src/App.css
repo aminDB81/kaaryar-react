@@ -1,0 +1,28 @@
+
+.container {
+    display: grid;
+    justify-content: center;
+    padding-top: 4rem;
+}
+.normal-buttons button {
+    margin-inline: 10px;
+    margin-bottom: 3rem;
+}
+.outline-button button {
+    margin-inline: 10px;
+}
+.sized-buttons button {
+    margin-inline: 10px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
+}
+.btn.disabled,
+.btn:disabled {
+    color: #8592A3;
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+.link-buttons a {
+    margin-inline: 10px;
+}
