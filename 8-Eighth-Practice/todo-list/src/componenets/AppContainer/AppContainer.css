@@ -1,0 +1,13 @@
+.todo-card {
+    width: 100%;
+    max-width: 450px;
+    height: 90%;
+    min-height: 500px;
+    background-color: #FFFF;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    box-shadow: 8px 8px 74px -9px rgba(66, 68, 90, 1);
+    border-radius: 4px;
+}

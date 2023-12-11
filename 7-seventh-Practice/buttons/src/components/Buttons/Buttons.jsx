@@ -16,10 +16,10 @@ const VARIANTS = {
     DARK: 'dark',
 };
 
-const SIZES = {
-    SMALL: 'btn-sm',
-    MEDIUM: 'btn-md',
-    LARGE: 'btn-lg',
+    const SIZES = {
+        SMALL: 'btn-sm',
+        MEDIUM: 'btn-md',
+        LARGE: 'btn-lg',
 };
 
 const LOOKS = {

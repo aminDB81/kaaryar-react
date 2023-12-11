@@ -1,0 +1,39 @@
+.main-div {
+    height: 60%;
+    overflow-y: scroll;
+    border-bottom: 1px solid gray;
+}
+
+.list-item {
+    list-style-type: none;
+    font-size: 16px;
+    padding: 12px 8px;
+    cursor: pointer;
+    transition: all 0.5s;
+    border-radius: 4px;
+    position: relative;
+    margin-inline: 16px;
+}
+
+.list-item-btn {
+    position: absolute;
+    left: 0;
+}
+
+.list-item:hover {
+    color: #FFFF;
+    background-color: #ff3838;
+}
+
+.list-item-btn {
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: none;
+    background-color: #F0F0F0;
+}
+
+.ul-item {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
