@@ -1,0 +1,139 @@
+form {
+    max-width: 600px;
+    margin: auto;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+input, .custom-select {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+input:focus, .custom-select:focus {
+    outline: none;
+    border-color: #4CAF50;
+}
+
+.custom-select {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    padding-right: 30px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    margin-left: 10px;
+}
+
+button[type="reset"] {
+    background-color: #f44336;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.error {
+    color: #f44336;
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+div input[type="radio"],
+div input[type="checkbox"] {
+    margin-top: 0;
+    margin-right: 5px;
+}
+
+div input[type="checkbox"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #4CAF50;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+}
+
+div input[type="checkbox"]:checked {
+    background-color: #4CAF50;
+}
+
+div input[type="checkbox"]:checked::after {
+    content: '\2713';
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.city-section {
+    margin-bottom: 20px;
+}
+
+.city-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.city-select {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    transition: border-color 0.3s ease;
+}
+
+.city-select:focus {
+    outline: none;
+    border-color: #4CAF50;
+}
+
+.error {
+    color: #f44336;
+    margin-top: 8px;
+    font-size: 14px;
+}

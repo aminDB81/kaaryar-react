@@ -12,7 +12,6 @@ const TaskListView = () => {
 
     useEffect(() => {
         const storedTasks = readJSON('tasks') || works;
-        console.log('Stored Tasks:', storedTasks);
         setTasks((prevTasks) => (prevTasks.length === 0 ? storedTasks : prevTasks));
     }, []);
 
